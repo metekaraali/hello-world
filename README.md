@@ -1,5 +1,5 @@
 # hello-world
-first of many
+
 I'm from Turkey.
 I live in Istanbul.
 I am studying Electricals-Electronics Engineering. 
